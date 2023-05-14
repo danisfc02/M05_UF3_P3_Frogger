@@ -1,0 +1,14 @@
+C:\Users\danij\Source\Repos\M05_UF3_P3_Frogger\M05_UF3_P3_Frogger\bin\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.exe
+C:\Users\danij\Source\Repos\M05_UF3_P3_Frogger\M05_UF3_P3_Frogger\bin\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.deps.json
+C:\Users\danij\Source\Repos\M05_UF3_P3_Frogger\M05_UF3_P3_Frogger\bin\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.runtimeconfig.json
+C:\Users\danij\Source\Repos\M05_UF3_P3_Frogger\M05_UF3_P3_Frogger\bin\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.runtimeconfig.dev.json
+C:\Users\danij\Source\Repos\M05_UF3_P3_Frogger\M05_UF3_P3_Frogger\bin\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.dll
+C:\Users\danij\Source\Repos\M05_UF3_P3_Frogger\M05_UF3_P3_Frogger\bin\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.pdb
+C:\Users\danij\Source\Repos\M05_UF3_P3_Frogger\M05_UF3_P3_Frogger\obj\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.csproj.AssemblyReference.cache
+C:\Users\danij\Source\Repos\M05_UF3_P3_Frogger\M05_UF3_P3_Frogger\obj\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danij\Source\Repos\M05_UF3_P3_Frogger\M05_UF3_P3_Frogger\obj\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.AssemblyInfoInputs.cache
+C:\Users\danij\Source\Repos\M05_UF3_P3_Frogger\M05_UF3_P3_Frogger\obj\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.AssemblyInfo.cs
+C:\Users\danij\Source\Repos\M05_UF3_P3_Frogger\M05_UF3_P3_Frogger\obj\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.csproj.CoreCompileInputs.cache
+C:\Users\danij\Source\Repos\M05_UF3_P3_Frogger\M05_UF3_P3_Frogger\obj\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.dll
+C:\Users\danij\Source\Repos\M05_UF3_P3_Frogger\M05_UF3_P3_Frogger\obj\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.pdb
+C:\Users\danij\Source\Repos\M05_UF3_P3_Frogger\M05_UF3_P3_Frogger\obj\Debug\netcoreapp3.1\M05_UF3_P3_Frogger.genruntimeconfig.cache
